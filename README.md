@@ -1,8 +1,24 @@
-# React + Vite
+# Advice Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app built with Tailwind CSS that generates random advice using the Advice Slip API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Fetch Random Advice:**
+   - Users can click a button to fetch and display random advice from the Advice Slip API.
+
+2. **Mobile Responsive:**
+   - The app is designed to be responsive for a seamless experience on various devices.
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/advice-generator-app.git
+
