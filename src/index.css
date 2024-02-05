@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .shadow-button {
+        box-shadow: 0 0 10px 3px #55fea5, 
+                    0 0 20px 5px #55fea5; 
+      }
+    
+}
